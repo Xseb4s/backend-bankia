@@ -1,4 +1,4 @@
-# Simple Backend for Credit Application System
+# Simple Backend for Credit Application System - Laravel
 
 This repository contains the source code of a simple backend built on Laravel, designed to handle credit applications for clients of a fictitious bank called "IA Bank". The backend provides an API for clients to submit credit applications, which are then reviewed by advisors and approved by the general manager.
 
